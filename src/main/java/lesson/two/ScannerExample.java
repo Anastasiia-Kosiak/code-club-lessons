@@ -2,6 +2,7 @@ package lesson.two;
 
 import java.util.Scanner;
 
+// Приклад використання класу Scanner для зчитування значень з клавіатури
 public class ScannerExample {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

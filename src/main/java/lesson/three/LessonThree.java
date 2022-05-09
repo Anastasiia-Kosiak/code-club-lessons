@@ -1,7 +1,7 @@
 package lesson.three;
 
 import java.util.Random;
-
+// Приклад роботи з операторами в Java
 public class LessonThree {
     public static void main(String[] args) {
         //арифметичні операції: +, -, * , /

@@ -1,6 +1,6 @@
 package lesson.six;
 
-
+// прклад створення класу
 public class Animal {
     //поля класу
     double speed; // поле speed типу double

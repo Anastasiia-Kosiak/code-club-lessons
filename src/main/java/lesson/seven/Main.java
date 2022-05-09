@@ -1,5 +1,7 @@
 package lesson.seven;
 
+// приклад створення класів із наслудуванням в Java
+// + інтерфейси
 public class Main {
     public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in); // оголошення сканера

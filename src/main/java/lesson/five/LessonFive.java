@@ -1,7 +1,7 @@
 package lesson.five;
 
 import java.util.Scanner;
-
+// приклад роботи з масивами в Java
 public class LessonFive {
     public static void main(String[] args) {
 

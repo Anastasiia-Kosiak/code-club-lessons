@@ -1,5 +1,6 @@
 package lesson.two;
 
+// приклад створення змінних різних типів в Java
 public class TypesExample {
     public static void main(String[] args) {
         boolean bool = true;

@@ -1,5 +1,5 @@
 package lesson.four;
-
+// приклад роботи із циклами в Java
 public class LessonFour {
     //switch - світлофор
 
