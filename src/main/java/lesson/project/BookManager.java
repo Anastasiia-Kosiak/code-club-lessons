@@ -9,4 +9,6 @@ public interface BookManager { // інтерфейс - всі методи є pu
     // useWeapon(String name)
 
     void showAll(); // показати всі книги
+    void searchByGenre(String genre);
+    //
 }

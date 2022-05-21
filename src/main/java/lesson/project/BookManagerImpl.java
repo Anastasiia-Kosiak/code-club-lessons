@@ -43,7 +43,14 @@ public class BookManagerImpl implements BookManager {
         }
     }
 
-
-
+    @Override
+    public void searchByGenre(String genre) {
+        for (int i = 0; i < books.size(); i++) {
+            // equals - дорівнює
+            if (books.get(i).getGenre().equals(genre)) {
+                books.get(i).displayBookInfo();
+            }
+        }
+    }
 
 }
