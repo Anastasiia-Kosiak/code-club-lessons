@@ -10,5 +10,6 @@ public interface BookManager { // інтерфейс - всі методи є pu
 
     void showAll(); // показати всі книги
     void searchByGenre(String genre);
+    void sortByTitle(); // сортування за назвою
     //
 }
